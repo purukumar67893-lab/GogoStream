@@ -1,0 +1,6 @@
+{
+  "name": "GogoStream",
+  "description": "Unlimited anime streaming platform connected to Gogoanime with multi-server HD playback, full catalog discovery, and live community chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
